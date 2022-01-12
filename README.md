@@ -243,3 +243,7 @@ Untuk memastikan API berjalan sesuai kriteria maka dilakukan pengujian mengunaka
 
 Jika sudah siap maka jalankan pengujian terhadap API yang sudah dibuat : 
 
+
+https://user-images.githubusercontent.com/34505233/149121703-3bd13029-a1e8-4c38-9076-20ba37e6ec56.mov
+
+
